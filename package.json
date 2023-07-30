@@ -12,6 +12,7 @@
     "node-fetch": "^2.6.12",
     "opencollective-postinstall": "^2.0.3",
     "regenerator-runtime": "^0.13.11",
+    "screenshot-desktop": "^1.15.0",
     "spelling": "^2.0.2",
     "tesseract.js": "^4.1.1",
     "tesseract.js-core": "^4.0.4",
